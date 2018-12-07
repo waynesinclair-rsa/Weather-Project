@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<TemperatureForecast>
+    <city>Durban</city>
+    <minday1>Min1</minday1>
+    <minday2>Min2</minday2>
+    <minday3>Min3</minday3>
+    <minday4>Min4</minday4>
+    <maxday1>Max1</maxday1>
+    <maxday2>Max2</maxday2>
+    <maxday3>Max3</maxday3>
+    <maxday4>Max4</maxday4>
+</TemperatureForecast>
